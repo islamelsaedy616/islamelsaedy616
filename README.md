@@ -1,6 +1,5 @@
-<h1>Hi there, I'm <span style="color:#007ACC;">Islam Mahmoud</span> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
+<h1>Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Islam Mahmoud</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 **Front-End Developer (Angular)**  
 Focused on building clean, responsive, and user-friendly web applications using modern front-end technologies.
