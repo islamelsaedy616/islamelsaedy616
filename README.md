@@ -1,7 +1,7 @@
 # Hi, I'm Islam Mahmoud
 
-**Full Stack Developer (Angular & .NET)**  
-Focused on building clean, efficient, and scalable web applications with modern front-end technologies.
+**Front-End Developer (Angular)**  
+Focused on building clean, responsive, and user-friendly web applications using modern front-end technologies.
 
 ---
 
