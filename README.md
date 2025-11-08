@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 Front-End Skills
+### 💻 Front-End Skills
 
 #### 🛠 Technologies & Tools I Use
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/islam-elsaedy" target="_blank">
