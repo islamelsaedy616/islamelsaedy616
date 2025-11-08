@@ -74,7 +74,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/islamelsaedy616" target="_blank">
+  <a href="www.linkedin.com/in/islam-elsaedy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:islamelsaedy616@gmail.com" target="_blank">
@@ -86,5 +86,3 @@
 </p>
 
 ---
-
-⭐️ *"Code is like humor — when you have to explain it, it’s bad."* 😄
