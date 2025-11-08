@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 **Front-End Developer (Angular)**  
-Focused on building clean, responsive, and user-friendly web applications using modern front-end technologies.
+Dedicated to building clean, responsive, and user-friendly web applications with modern front-end technologies.
 
 ---
 
