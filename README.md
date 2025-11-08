@@ -1,14 +1,30 @@
-<h1>Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Islam Mahmoud</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/islamelsaedy616" target="_blank">Islam Mahmoud</a> 👋
+</h1>
 
-### 👨‍💻 Front-End Developer (Angular)
-Dedicated to building **clean**, **responsive**, and **user-friendly** web applications with modern front-end technologies.
+<p align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="wave" />
+</p>
+
+<p align="center">
+  👨‍💻 Front-End Developer (Angular) passionate about creating modern, responsive, and high-performance web applications with a focus on clean architecture and great user experience.
+</p>
+
+---
+
+### 💫 About Me
+
+👋 I'm a passionate Front-End Developer who loves turning ideas into interactive, modern web experiences.  
+🌱 Currently improving my skills in **Angular**, **TypeScript**, and **UI/UX design**.  
+🚀 Always learning and exploring new technologies to build better web apps.  
 
 ---
 
 ## 💻 Front-End Skills
 
-<p align="left">
+#### 🛠 Technologies & Tools I Use
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -29,7 +45,7 @@ Dedicated to building **clean**, **responsive**, and **user-friendly** web appli
 
   <!-- GitHub Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=islamelsaedy616&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=islamelsaedy616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Islam Mahmoud's GitHub Stats"
     height="180"
     style="border-radius: 10px; margin: 5px;"
@@ -37,7 +53,7 @@ Dedicated to building **clean**, **responsive**, and **user-friendly** web appli
 
   <!-- GitHub Streak Card -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=islamelsaedy616&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=islamelsaedy616&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     height="180"
     style="border-radius: 10px; margin: 5px;"
@@ -45,7 +61,7 @@ Dedicated to building **clean**, **responsive**, and **user-friendly** web appli
 
   <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelsaedy616&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamelsaedy616&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="180"
     style="border-radius: 10px; margin: 5px;"
@@ -55,3 +71,20 @@ Dedicated to building **clean**, **responsive**, and **user-friendly** web appli
 
 ---
 
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/islamelsaedy616" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:islamelsaedy616@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/islamelsaedy616" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+⭐️ *"Code is like humor — when you have to explain it, it’s bad."* 😄
